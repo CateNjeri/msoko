@@ -1,5 +1,5 @@
 
-  {"product":"VEGITABLES",
+  {"product":"VEGETABLES",
     "aproduct":{
     "vegetables":[{
           "title": "Hot Red Pepper",
@@ -12,7 +12,7 @@
         },{
           "title": "Peas",
           "description": "Direct from the Kenyan Highlands to your home.",
-          "seasonal": "false",
+          "seasonal": "true",
           "price": "2.75",
           "image": "/assets/img/peas.jpg",
           "type": "Grains",
@@ -20,7 +20,7 @@
         },{
           "title": "Tomatoes",
           "description": "Organically grown Tomatoes for the best taste and coloring of foood.",
-          "seasonal": "false",
+          "seasonal": "true",
           "price": "4.75",
           "image": "/assets/img/tomatoes.jpg",
           "type": "Vegetables",
@@ -30,7 +30,7 @@
    "fruits":[{
     "title": "Sweet Melon",
     "description": "A Kenyan grown fruit, all the from Rift-Valley.Sweetness Guranteed",
-    "seasonal": "false",
+    "seasonal": "true",
     "price": "7.25",
     "image": "/assets/img/melon.jpg",
     "type": "Fruit",
@@ -38,7 +38,7 @@
   }, {
     "title": "Pomogranate",
     "description": "Direct shipment from Spain for the best quality.",
-    "seasonal": "false",
+    "seasonal": "true",
     "price": "12.75",
     "image": "/assets/img/pomogranate.jpg",
     "type": "Fruit",
@@ -47,7 +47,7 @@
   {
     "title": "Grapes",
     "description": "A worthy fruit fresh from Paris.",
-    "seasonal": "false",
+    "seasonal": "true",
     "price": "10.50",
     "image": "/assets/img/grapes.jpg",
     "type": "Fruit",
@@ -71,7 +71,7 @@
       },{
         "title": "Lentiles",
         "description": "Readily available Lentiles good for your health",
-        "seasonal": "false",
+        "seasonal": "true",
         "price": "9.50",
         "image": "http://www.calgaryherald.com/life/cms/binary/4837810.jpg?size=620x400s",
         "type": "cereals",
